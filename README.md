@@ -1,0 +1,2 @@
+# AI-Voice-Command-Bot-
+ It is virtual robot coded in python using Artificial intelligence ,and libraries like speech_recognitation, webbrowser, wolframalpha, wikipedia, pygame, pyttsx3,  pyperclip, win32com.client and few basic libraries , this robot is capable to understand your voice action and help in searching content , location, wiki search at web browser as well as it will open your system application by voice command and save text etc.  
